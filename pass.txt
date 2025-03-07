@@ -1,0 +1,4 @@
+iamvishnuamarapu
+BVq1K8Cr61Gi32nl
+mongodb+srv://iamvishnuamarapu:<db_password>@cluster0.o1qsi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+python -m pip install "pymongo[srv]"==3.6
